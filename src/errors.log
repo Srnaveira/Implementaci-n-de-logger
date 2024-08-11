@@ -1,0 +1,58 @@
+[2024-08-11T17:46:00.798Z] info: Ya estamos conectados a la base de datos
+[2024-08-11T17:46:00.807Z] info: Aplicación funcionando en el puerto: 8080
+[2024-08-11T17:46:04.710Z] info: Conectado a la base de datos
+[2024-08-11T17:46:16.755Z] info: POST en /api/sessions/logout - 11/8/2024 - undefined
+[2024-08-11T17:46:16.755Z] error: POST en /api/sessions/logout - 11/8/2024 - undefined
+[2024-08-11T17:46:16.756Z] warning: POST en /api/sessions/logout - 11/8/2024 - undefined
+[2024-08-11T17:46:16.756Z] fatal: POST en /api/sessions/logout - 11/8/2024 - undefined
+[2024-08-11T17:46:17.756Z] info: GET en /login - 11/8/2024 - undefined
+[2024-08-11T17:46:17.756Z] error: GET en /login - 11/8/2024 - undefined
+[2024-08-11T17:46:17.756Z] warning: GET en /login - 11/8/2024 - undefined
+[2024-08-11T17:46:17.757Z] fatal: GET en /login - 11/8/2024 - undefined
+[2024-08-11T17:52:13.827Z] info: Ya estamos conectados a la base de datos
+[2024-08-11T17:52:13.835Z] info: Aplicación funcionando en el puerto: 8080
+[2024-08-11T17:52:15.962Z] info: Conectado a la base de datos
+[2024-08-11T17:52:21.981Z] info: POST en /api/sessions/login - 11/8/2024
+[2024-08-11T17:52:21.981Z] error: POST en /api/sessions/login - 11/8/2024
+[2024-08-11T17:52:21.981Z] warning: POST en /api/sessions/login - 11/8/2024
+[2024-08-11T17:52:21.982Z] fatal: POST en /api/sessions/login - 11/8/2024
+[2024-08-11T17:52:24.790Z] info: GET en /api/admin/realtimeproducts - 11/8/2024
+[2024-08-11T17:52:24.791Z] error: GET en /api/admin/realtimeproducts - 11/8/2024
+[2024-08-11T17:52:24.791Z] warning: GET en /api/admin/realtimeproducts - 11/8/2024
+[2024-08-11T17:52:24.791Z] fatal: GET en /api/admin/realtimeproducts - 11/8/2024
+[2024-08-11T17:52:44.521Z] error: El id ingresado: 664cf0ed5197b77cb5935f999 no corresponde a ningun id de productos
+[2024-08-11T17:52:44.521Z] error: Hubo un problema en el productService function getProductById:
+[2024-08-11T17:52:44.648Z] info: GET en /api/admin/realtimeproducts?idp=664cf0ed5197b77cb5935f999 - 11/8/2024
+[2024-08-11T17:52:44.648Z] error: GET en /api/admin/realtimeproducts?idp=664cf0ed5197b77cb5935f999 - 11/8/2024
+[2024-08-11T17:52:44.648Z] warning: GET en /api/admin/realtimeproducts?idp=664cf0ed5197b77cb5935f999 - 11/8/2024
+[2024-08-11T17:52:44.648Z] fatal: GET en /api/admin/realtimeproducts?idp=664cf0ed5197b77cb5935f999 - 11/8/2024
+[2024-08-11T18:12:56.951Z] info: Ya estamos conectados a la base de datos
+[2024-08-11T18:12:56.960Z] info: Aplicación funcionando en el puerto: 8080
+[2024-08-11T18:12:58.273Z] info: Conectado a la base de datos
+[2024-08-11T18:13:10.040Z] info: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:13:10.040Z] error: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:13:10.040Z] warning: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:13:10.041Z] fatal: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:13:30.187Z] info: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:30.188Z] error: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:30.188Z] warning: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:30.188Z] fatal: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:33.417Z] info: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:33.417Z] error: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:33.417Z] warning: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:33.417Z] fatal: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:52.287Z] info: Ya estamos conectados a la base de datos
+[2024-08-11T18:13:52.296Z] info: Aplicación funcionando en el puerto: 8080
+[2024-08-11T18:13:53.482Z] info: Conectado a la base de datos
+[2024-08-11T18:13:56.323Z] info: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:56.323Z] error: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:56.323Z] warning: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:13:56.323Z] fatal: GET en /api/logerTest - 11/8/2024
+[2024-08-11T18:14:04.413Z] info: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:14:04.413Z] error: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:14:04.413Z] warning: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:14:04.414Z] fatal: GET en /api/loggerTest - 11/8/2024
+[2024-08-11T18:14:04.414Z] fatal: Este es un mensaje de nivel fatal
+[2024-08-11T18:14:04.414Z] error: Este es un mensaje de nivel error
+[2024-08-11T18:14:04.414Z] warning: Este es un mensaje de nivel warning
+[2024-08-11T18:14:04.414Z] info: Este es un mensaje de nivel info
